@@ -1,9 +1,9 @@
 //============================================================================
 // Name        : CheckBrackets.cpp
-// Author      : 
+// Author      : Vadim Genkin
 // Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Copyright   :
+// Description : Check Brackets program
 //============================================================================
 
 #include <iostream>
